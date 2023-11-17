@@ -15,7 +15,7 @@ This Python script utilizes the OpenCV and Pyzbar libraries to scan a photo for 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ernerk/qr-code-scanner.git
+   git clone https://github.com/ernerk/qr-code-scanner.py
    ```
 
 2. Navigate to the project directory:
